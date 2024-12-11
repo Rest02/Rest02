@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matías Rodríguez Aka Rest<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Matías Rodríguez, also known as Rest<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
   <!-- LinkedIn Icon -->
