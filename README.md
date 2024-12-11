@@ -2,12 +2,12 @@
 
 <p align="center">
   <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/mat%C3%ADas-rodr%C3%ADguez-11294423a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
   </a>
   
   <!-- Gmail Icon -->
-  <a href="mailto:tu-correo@gmail.com" target="_blank">
+  <a href="rodriguez.bastidas.matias@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="90" height="30">
   </a>
   
