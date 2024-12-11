@@ -3,17 +3,17 @@
 <p align="center">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/LinkedIN.png" alt="LinkedIn Icon" width="20" height="20">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="30">
   </a>
   
   <!-- Gmail Icon -->
   <a href="mailto:tu-correo@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Gmail.png" alt="Gmail Icon" width="20" height="20">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="90" height="30">
   </a>
   
-  <!-- Twitter Icon -->
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Twitter.png" alt="Twitter Icon" width="20" height="20">
+  <!-- X (Twitter) Icon -->
+  <a href="https://x.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" width="50" height="30">
   </a>
 </p>
 
@@ -56,4 +56,5 @@
     <img src="https://skillicons.dev/icons?i=express,spring,django,react,vue,angular,tailwind,bootstrap,materialui&perline=14" />
   </a>
 </p>
+
 
