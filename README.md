@@ -5,13 +5,12 @@
 
 <p align="center">
 
-  <h1 align="center"> 
-  Hi 👋, I'm Matías <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
-    <br>
+  <h1 align="center"> Hi 👋, I'm Matías <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+  <p align="center">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/LinkedIN.png" alt="LinkedIn Icon" width="20" height="20">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Gmail.png" alt="Gmail Icon" width="20" height="20">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Twitter.png" alt="Twitter Icon Icon" width="20" height="20">
-  </h1>
+  </p>
 </p>
 
 
