@@ -1,20 +1,21 @@
-
-
-
-
+<h1 align="center">Hi 👋, I'm Matías <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-
-  <h1 align="center"> Hi 👋, I'm Matías <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/LinkedIN.png" alt="LinkedIn Icon" width="20" height="20">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Gmail.png" alt="Gmail Icon" width="20" height="20">
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Twitter.png" alt="Twitter Icon Icon" width="20" height="20">
-  </p>
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/LinkedIN.png" alt="LinkedIn Icon" width="20" height="20">
+  </a>
+  
+  <!-- Gmail Icon -->
+  <a href="mailto:tu-correo@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Gmail.png" alt="Gmail Icon" width="20" height="20">
+  </a>
+  
+  <!-- Twitter Icon -->
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Twitter.png" alt="Twitter Icon" width="20" height="20">
+  </a>
 </p>
-
-
-
 
 # <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <picture>
@@ -24,7 +25,7 @@
 * 💻 I'm a full stack web developer  
 * 🎨 I'm a self-taught UI designer  
 * 📱 I make apps for Android and iOS  
-* 🎓 I'm a fourth-year Software Engineering student"  
+* 🎓 I'm a fourth-year Software Engineering student  
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)  
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)  
 
@@ -34,11 +35,6 @@
   </a>
 </p>
 
-
-
-
-
-
 # <picture><img src="https://cdn-icons-png.flaticon.com/512/9670/9670733.png" width="50px"></picture> Lenguajes and Tools
 <!--tech stack icons-->
 <p align="center">
@@ -47,8 +43,6 @@
   </a>
 </p>
 
-
-
 # <picture><img src="https://cdn-icons-png.flaticon.com/512/9850/9850812.png" width="50px"></picture> Databases
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,10 +50,10 @@
   </a>
 </p>
 
-
 # <picture><img src="https://cdn-icons-png.flaticon.com/512/6878/6878914.png" width="50px"></picture> Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,spring,django,react,vue,angular,tailwind,bootstrap,materialui&perline=14" />
   </a>
 </p>
+
