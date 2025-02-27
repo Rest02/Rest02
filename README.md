@@ -27,7 +27,7 @@
 * 📱 I make apps for Android and iOS  
 * 🎓 I'm a fourth-year Software Engineering student  
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)  
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)  
+
 
 <p align="left">
   <a href="https://freshidea.com/jonah/">
