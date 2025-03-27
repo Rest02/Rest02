@@ -53,7 +53,7 @@
 # <picture><img src="https://cdn-icons-png.flaticon.com/512/6878/6878914.png" width="50px"></picture> Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,spring,django,react,vue,angular,tailwind,bootstrap,materialui&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,spring,django,react,vue,angular,tailwind,bootstrap,materialui,nextjs,nestjs&perline=14" />
   </a>
 </p>
 
