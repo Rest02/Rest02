@@ -26,7 +26,7 @@
 * 🎨 I'm a self-taught UI designer  
 * 📱 I make apps for Android and iOS  
 * 🎓 I'm a fourth-year Software Engineering student  
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)  
+* 🌐 You can see some of my projects on [my portfolio](https://portafolio-five-weld.vercel.app/)  
 
 
 <p align="left">
